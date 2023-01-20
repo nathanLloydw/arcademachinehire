@@ -1,0 +1,1 @@
+[08-Apr-2019 09:59:43 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/arcademachinehir/public_html/wp-content/plugins/hello.php on line 59
